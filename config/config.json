@@ -2,7 +2,7 @@
   "development": {
     "username": "root",
     "password": "Project",
-    "database": "firedetectionsystem",
+    "database": "nodebird",
     "host": "svc.sel3.cloudtype.app",
     "port": 31804,
     "dialect": "mysql"
